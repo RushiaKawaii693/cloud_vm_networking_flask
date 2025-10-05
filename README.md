@@ -17,7 +17,6 @@
 
 
 ### 3. OS Update + Python Install
-[commands + screenshot]
 Update: sudo apt update && sudo apt upgrade -y
 <img width="1919" height="1079" alt="Screenshot 2025-10-05 155619" src="https://github.com/user-attachments/assets/cff68741-2e58-4690-aa27-aa77c215e61a" />
 
@@ -37,9 +36,7 @@ Pyhon Install: sudo apt install git python3 python3-pip python3.13-venv -y
 ### 5. Public IP Access
 URL:(http://127.0.0.1:5003) 
 
-<img width="1919" height="1079" alt="Screenshot 2025-10-05 161732" src="https://github.com/user-attachments/assets/d62d2e73-bbaa-4c27-9ef3-5f7d687e4bcb" />
+<img width="1919" height="122" alt="Screenshot 2025-10-05 165108" src="https://github.com/user-attachments/assets/38388df6-85cd-4f93-8230-aa3f10a525fe" />
 
 
-### 6. (Bonus) Domain Name
-Domain: http://mydomain.tech:5003  
-[screenshot]
+
