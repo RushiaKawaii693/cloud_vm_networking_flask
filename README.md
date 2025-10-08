@@ -5,7 +5,8 @@
 - Cloud Provider: GCP
 
 ## Video recording: 
-- Zoom/Loom: 
+- Zoom/Loom: https://www.loom.com/share/bf3adb3c2fab47dc8d64bc9ce6f958cc?sid=68607c46-e12e-4379-b186-8be690f40f08 (VM Creation and running SSH)
+- https://www.loom.com/share/4869ba9710ef4b7e914766e654e5a9f1?sid=75604a3d-3f48-426a-874d-2b9b99183ef7 (Running SSH continued with site)
 
 ## Steps
 ### 1. VM Creation
