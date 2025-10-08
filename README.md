@@ -14,7 +14,7 @@
 
 
 ### 2. Networking (Port 5003 Open)
-<img width="1919" height="1079" alt="Screenshot 2025-10-06 205720" src="https://github.com/user-attachments/assets/824e10d1-f580-47d8-9fd3-e296570f070b" />
+<img width="1919" height="1079" alt="Screenshot 2025-10-07 201821" src="https://github.com/user-attachments/assets/31c96939-5c47-4c96-ba7f-97f14503ca30" />
 
 
 
